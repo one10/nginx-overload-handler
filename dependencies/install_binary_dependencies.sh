@@ -56,3 +56,5 @@ apt-get install -y \
 # Server benchmarking tools such as ab
 apt-get install -y apache2-utils
 
+# misc
+apt-get install -y librspec-ruby python-dev
